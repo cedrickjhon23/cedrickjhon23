@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cedrickjhon23
 - 👀 I’m interested in programmer javascript ...
 - 🌱 I’m currently learning Javascript...
-- 💞️ I’m looking to collaborate on my techincal skkill
+- 💞️ I’m looking to collaborate on my techincal skill
 - visual basic
 - java
 - c++
