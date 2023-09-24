@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @cedrickjhon23
 - 👀 I’m interested in programmer javascript ...
 - 🌱 I’m currently learning Javascript...
-- 💞️ I’m looking to collaborate on my techincal skill
-- visual basic
-- java
-- c++
-- mySQL 
+- 💞️ I’m looking to collaborate on Creating Websites
+- My techincal skill
+- visual basic, java, c++, mySQL 
 - 📫 How to reach me cedrickjohnfiestada@gmail.com...
 
 <!---
